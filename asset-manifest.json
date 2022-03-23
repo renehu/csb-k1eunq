@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://renehu.github.io/csb-k1eunq/static/css/main.c6a229d1.chunk.css",
+    "main.js": "https://renehu.github.io/csb-k1eunq/static/js/main.0bd88e38.chunk.js",
+    "main.js.map": "https://renehu.github.io/csb-k1eunq/static/js/main.0bd88e38.chunk.js.map",
+    "runtime-main.js": "https://renehu.github.io/csb-k1eunq/static/js/runtime-main.65de15ab.js",
+    "runtime-main.js.map": "https://renehu.github.io/csb-k1eunq/static/js/runtime-main.65de15ab.js.map",
+    "static/css/2.fed9dcda.chunk.css": "https://renehu.github.io/csb-k1eunq/static/css/2.fed9dcda.chunk.css",
+    "static/js/2.5aa10c11.chunk.js": "https://renehu.github.io/csb-k1eunq/static/js/2.5aa10c11.chunk.js",
+    "static/js/2.5aa10c11.chunk.js.map": "https://renehu.github.io/csb-k1eunq/static/js/2.5aa10c11.chunk.js.map",
+    "index.html": "https://renehu.github.io/csb-k1eunq/index.html",
+    "static/css/2.fed9dcda.chunk.css.map": "https://renehu.github.io/csb-k1eunq/static/css/2.fed9dcda.chunk.css.map",
+    "static/css/main.c6a229d1.chunk.css.map": "https://renehu.github.io/csb-k1eunq/static/css/main.c6a229d1.chunk.css.map",
+    "static/js/2.5aa10c11.chunk.js.LICENSE.txt": "https://renehu.github.io/csb-k1eunq/static/js/2.5aa10c11.chunk.js.LICENSE.txt",
+    "static/media/twilio-mark-red.09b78559.svg": "https://renehu.github.io/csb-k1eunq/static/media/twilio-mark-red.09b78559.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65de15ab.js",
+    "static/css/2.fed9dcda.chunk.css",
+    "static/js/2.5aa10c11.chunk.js",
+    "static/css/main.c6a229d1.chunk.css",
+    "static/js/main.0bd88e38.chunk.js"
+  ]
+}
